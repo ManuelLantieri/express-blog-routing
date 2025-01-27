@@ -3,24 +3,19 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ManuelLantieri/express-blog-routing.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Manuel Lantieri",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ManuelLantieri/express-blog-routing/issues"
   },
   "homepage": "https://github.com/ManuelLantieri/express-blog-routing#readme",
-  "description": "",
-  "devDependencies": {
-    "nodemon": "^3.1.9"
-  },
-  "dependencies": {
-    "express": "^4.21.2"
-  }
+  "description": ""
 }
